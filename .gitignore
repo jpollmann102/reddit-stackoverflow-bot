@@ -1,0 +1,4 @@
+*.google-cookie
+*.txt
+*.ini
+__pycache__/
